@@ -1,5 +1,5 @@
 {
-  "name": "react-native-pdf-lib",
+  "name": "react-native-pdf-lib-fixed",
   "version": "1.0.0",
   "description": "A react native library for handling generating PDFs",
   "main": "index.js",
